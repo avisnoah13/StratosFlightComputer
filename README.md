@@ -1,5 +1,5 @@
 # StratosFlightComputer
-Descrition: STM32 based flight controller designed from scratch. Created for an extreme high altitude glider (120,000ft) as part of a Princeton Rocketry project.
+Descrition: **Flight control system completely designed from scratch.** Created for an extreme high altitude glider (120,000ft) as part of a Princeton Rocketry project.
 
 ## Project Summary
  - **Situation:** This glider project is an evolution of a finalist project for the NASA FLOATing DRAGON Balloon Challenge. It is a sub 4lb glider that is brought to ~120,000ft using a high altitude balloon that is then dropped to collect upper atmosphere data and test novel navigation algorithms and simulations.
@@ -11,7 +11,3 @@ Descrition: STM32 based flight controller designed from scratch. Created for an 
  - **Hardware** - Contains PCB gerber files, schematic documents, and images
  - **Software** - Contains sensor drivers and necessary code to run the flight computer
  - **Data** - Contains data collected and processed by the flight computer
-
-##Component Selection
-
-
