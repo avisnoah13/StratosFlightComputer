@@ -13,3 +13,9 @@ Descrition: **Flight control system completely designed from scratch.** Created 
  - **Hardware** - Contains PCB gerber files, schematic documents, and images
  - **Software** - Contains sensor drivers and necessary code to run the flight computer
  - **Data** - Contains data collected and processed by the flight computer
+
+##TODO
+ - [] Create hardware block diagram
+ - [] Create software block diagram
+ - [] Calibration/ Testing
+ - [] Record some Data
