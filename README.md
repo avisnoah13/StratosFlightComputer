@@ -1,5 +1,5 @@
 # StratosFlightComputer
-Descrition: **Flight control system completely designed from scratch.** Created for an extreme high altitude glider (120,000ft) as part of a Princeton Rocketry project.
+Description: **Flight control system completely designed from scratch.** Created for an extreme high altitude glider (120,000ft) as part of a Princeton Rocketry project.
 
 **This project is still a work in progress**
 
@@ -15,6 +15,10 @@ Descrition: **Flight control system completely designed from scratch.** Created 
  - **Hardware** - Contains PCB gerber files, schematic documents, and images
  - **Software** - Contains sensor drivers and necessary code to run the flight computer (Currently still initializiing project in STM32CubeIDE)
  - **Data** - Contains data collected and processed by the flight computer (This will be populated once the PCB is manufactured and flown)
+
+## Hardware Details
+ - **Block Diagram**
+![hardware block diagram](Hardware/HardwareBlockDiagram.png)
 
 ## TODO
  - [ ] Create hardware block diagram
