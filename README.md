@@ -18,7 +18,7 @@ Description: **Flight control system completely designed from scratch.** Created
 
 ## Hardware Details
  - **Block Diagram**
-![hardware block diagram](Hardware/HardwareBlockDiagram.png)
+![hardware block diagram](Hardware/HardwareBlockDiagram.jpg)
 
 ## TODO
  - [ ] Create hardware block diagram
