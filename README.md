@@ -3,7 +3,7 @@ Description: **Flight control system completely designed from scratch.** Created
 
 **This project is still a work in progress**
 
-![screenshot of 3d render of PCB](STRATOSRenderOut1.jpeg)
+![screenshot of 3d render of PCB](STRATOSRenderOut1.jpg)
 
 ## Project Summary
  - **Situation:** This glider project is an evolution of a finalist project for the NASA FLOATing DRAGON Balloon Challenge. It is a sub 4lb glider that is brought to ~120,000ft using a high altitude balloon that is then dropped to collect upper atmosphere data and test novel navigation algorithms and simulations.
